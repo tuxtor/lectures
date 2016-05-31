@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {2}{Introducción}{3}{0}{1}
+\beamer@sectionintoc {3}{Sistemas}{7}{0}{2}
+\beamer@sectionintoc {4}{Holismo}{13}{0}{3}
+\beamer@sectionintoc {5}{Ejemplos}{27}{0}{4}
